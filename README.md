@@ -1,16 +1,15 @@
-## Hi there 👋
+I love to play with code and figures to create amazing stories
+[khoatna.065@gmail.com]
+***
+##**Technical Skills**
+SQL: SQL Server, PostgreSQL, Google BigQuery
+Power BI: DAX, Power Query, Data Modeling
+Python: Pandas, NumPy, MatPlotLib, Seaborn
+Machine Learning: Supervised Learning with Scikit-learn
+***
+##**Education & Certificate**
+**Da Nang University of Economics** - Finance (September 2019 - July 2023)
 
-<!--
-**khoatna065/khoatna065** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Analyst Coaching 1 on 1 Program** - Unigap (December 2023 - May 2024)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Completed 16 Datacamp courses and finished 8 hands-on projects from beginner to advanced level (SQL, Power BI, Python, Machine Learning); Joined problem-solving and design thinking training sessions
